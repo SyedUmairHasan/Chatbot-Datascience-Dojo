@@ -2,7 +2,7 @@
 Voice Controlled Chatbot using Webscraping in Python,
 with attractive GUI developed by Team FTGG.
 
-Following libraries were used:
+➤ Following libraries were used:
 - Tkinter (for GUI)
 - Beautifulsoup and Requests (for Web Scraping)
 - Speech Recognition (for input)
@@ -10,21 +10,21 @@ Following libraries were used:
 - Pyttsx3 (for text to speech)
 - Datetime 
 
-https://youtu.be/lpSShvLJSnc
-
-➤ Request Documentation:
-https://pypi.org/project/requests/
-➤ Tkinter Documentation:
+➤ Documentations for Python 3.x: 
+- ➤ Tkinter Documentation:
 https://docs.python.org/3.9/library/tkinter.html#module-Tkinter
-➤ BeautifulSoup4 Documentation:
+- ➤ BeautifulSoup4 Documentation:
 https://pypi.org/project/beautifulsoup4/
-➤ SpeechRecognition Documentation:
+- ➤ SpeechRecognition Documentation:
 https://pypi.org/project/SpeechRecognition/
-➤ Threading Documentation:
+- ➤ Threading Documentation:
 https://docs.python.org/3/library/threading.html
-➤ Pyttsx3 Documentation:
+- ➤ Pyttsx3 Documentation:
 https://pypi.org/project/pyttsx3/
-➤ Datetime Documentation:
+- ➤ Datetime Documentation:
 https://docs.python.org/3.9/library/datetime.html
+- ➤ Request Documentation:
+https://pypi.org/project/requests/
 
+- YouTube: https://youtu.be/lpSShvLJSnc
 .
