@@ -10,21 +10,14 @@ with attractive GUI developed by Team FTGG.
 - Pyttsx3 (for text to speech)
 - Datetime 
 
-➤ Documentations for Python 3.x: 
-- ➤ Tkinter Documentation:
-https://docs.python.org/3.9/library/tkinter.html#module-Tkinter
-- ➤ BeautifulSoup4 Documentation:
-https://pypi.org/project/beautifulsoup4/
-- ➤ SpeechRecognition Documentation:
-https://pypi.org/project/SpeechRecognition/
-- ➤ Threading Documentation:
-https://docs.python.org/3/library/threading.html
-- ➤ Pyttsx3 Documentation:
-https://pypi.org/project/pyttsx3/
-- ➤ Datetime Documentation:
-https://docs.python.org/3.9/library/datetime.html
-- ➤ Request Documentation:
-https://pypi.org/project/requests/
+➤ Documentations - [Python 3.x](https://www.python.org) 
+- [Tkinter](https://docs.python.org/3.9/library/tkinter.html#module-Tkinter)
+- [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
+- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
+- [Threading](https://docs.python.org/3/library/threading.html)
+- [Pyttsx3](https://pypi.org/project/pyttsx3/)
+- [Datetime](https://docs.python.org/3.9/library/datetime.html)
+- [Request](https://pypi.org/project/requests/)
 
-- YouTube: https://youtu.be/lpSShvLJSnc
+➤ YouTube: https://youtu.be/lpSShvLJSnc
 .
